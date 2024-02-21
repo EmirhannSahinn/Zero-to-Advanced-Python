@@ -5,7 +5,7 @@
 - Integer and Float data types
 - Basic mathematical operations
 - Defining variables
-
+--------------------------------------------------
 # Integer and Float data types
 ### Integer
 All the numbers (negative, zero or positive) are integer in the math.
@@ -34,13 +34,17 @@ i = 10
 
 There some important point, when you define a variable:
 1. The name of variables cannot start a number.
-    Wrong using: 5a = 12
-2. The name of variables doesn't  include space character.
-    Wrong using: name of course =  "Introduction to Python"
+    Wrong using:
+        5a = 12
+2. The name of variables doesn't include space character.
+    Wrong using:
+        name of course = "Introduction to Python"
 3. The symbols aren't used defining variables.
     Note: You can use just underline (_) symbol.
-    Wrong using: ?a = 5
-    Correct using _a = 4
+    Wrong using:
+        ?a = 5
+    Correct using:
+        _a = 4
 """
 
 # Let's calculate circumference of a circle using we learned

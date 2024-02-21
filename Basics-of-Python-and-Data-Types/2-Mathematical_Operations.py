@@ -50,7 +50,7 @@ print(a * b)
 # # Integer
 a = 4
 b = 2
-print(a / 2)
+print(a / b)
 
 # # Float
 i = 3.14
